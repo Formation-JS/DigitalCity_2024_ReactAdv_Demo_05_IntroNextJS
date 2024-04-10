@@ -1,0 +1,63 @@
+[
+    {
+      "name": "Les Évadés",
+      "description": "Deux hommes emprisonnés se lient d'amitié au fil des années, trouvant du réconfort et finalement la rédemption grâce à des actes de décence commune.",
+      "releaseYear": 1994,
+      "genre": "Drame"
+    },
+    {
+      "name": "Le Parrain",
+      "description": "Le patriarche vieillissant d'une dynastie du crime organisé transfère le contrôle de son empire clandestin à son fils réticent.",
+      "releaseYear": 1972,
+      "genre": "Crime, Drame"
+    },
+    {
+      "name": "Le Chevalier Noir",
+      "description": "Quand la menace connue sous le nom de Joker sème le chaos et la destruction sur les habitants de Gotham, Batman doit accepter l'un des plus grands tests psychologiques et physiques de sa capacité à combattre l'injustice.",
+      "releaseYear": 2008,
+      "genre": "Action, Crime, Drame"
+    },
+    {
+      "name": "Pulp Fiction",
+      "description": "Les vies de deux tueurs à gages de la mafia, d'un boxeur, d'un gangster et de sa femme, et d'un couple de bandits de diner s'entrecroisent dans quatre histoires de violence et de rédemption.",
+      "releaseYear": 1994,
+      "genre": "Crime, Drame"
+    },
+    {
+      "name": "Forrest Gump",
+      "description": "Forrest Gump, tout en étant un simple d'esprit, a été présent à de nombreux événements historiques, mais son amour pour Jenny Curran l'obsède.",
+      "releaseYear": 1994,
+      "genre": "Drame, Romance"
+    },
+    {
+      "name": "Inception",
+      "description": "Un voleur, qui vole des secrets d'entreprise par l'utilisation de la technologie de partage de rêve, a reçu la tâche inverse de planter une idée dans l'esprit du PDG.",
+      "releaseYear": 2010,
+      "genre": "Action, Aventure, Science-Fiction"
+    },
+    {
+      "name": "Fight Club",
+      "description": "Un employé de bureau insomniaque et un fabricant de savon déviant forment un club de combat souterrain qui se transforme en quelque chose de beaucoup plus.",
+      "releaseYear": 1999,
+      "genre": "Drame"
+    },
+    {
+      "name": "Matrix",
+      "description": "Un programmeur informatique est plongé dans un monde clandestin de pirates informatiques et est confronté à la réalité déconcertante que le monde réel n'est qu'une simulation informatique complexe créée par des machines.",
+      "releaseYear": 1999,
+      "genre": "Action, Science-Fiction"
+    },
+    {
+      "name": "Le Seigneur des anneaux : Le Retour du roi",
+      "description": "Gandalf et Aragorn mènent le Monde des Hommes contre l'armée de Sauron pour attirer son regard de Frodon et Sam alors qu'ils s'approchent du Mont du Destin avec l'Anneau Unique.",
+      "releaseYear": 2003,
+      "genre": "Aventure, Drame, Fantaisie"
+    },
+    {
+      "name": "Gladiator",
+      "description": "Un général romain est trahi et sa famille assassinée par un prince corrompu. Il revient à Rome en tant que gladiateur pour se venger.",
+      "releaseYear": 2000,
+      "genre": "Action, Aventure, Drame"
+    }
+  ]
+  
